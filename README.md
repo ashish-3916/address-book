@@ -135,7 +135,7 @@ The service runs on port 5000.
     export JAVA_HOME=$(/usr/libexec/java_home -v "17");
     ```
 
-2.  **Unzip the project:***
+2.  **Clone the Repo:***
     ```bash
     git clone https://github.com/ashish-3916/address-book.git
     cd addressbook
