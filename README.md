@@ -137,6 +137,7 @@ The service runs on port 5000.
 
 2.  **Unzip the project:***
     ```bash
+    git clone https://github.com/ashish-3916/address-book.git
     cd addressbook
     ```
 
